@@ -1,13 +1,10 @@
 
-//do not modify the above line
-
-package hashmapassignment2;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class Tester {
+public class HashMapTester {
 	public static Map<String, Integer> mergeMaps(Map<String, Integer> mapOne, Map<String, Integer> mapTwo){
         //Implement your logic here and change the return statement accordingly
 		return null;
